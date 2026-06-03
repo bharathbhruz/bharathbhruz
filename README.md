@@ -1,9 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath+K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+AI+%26+Computer+Vision&descAlignY=62&descSize=16"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Bharath%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" />
+</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bharath-k-b62b5a2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bharathkumaresen11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/bharathbhruz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bharathbhruz&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -38,7 +55,7 @@ class DataAnalyst:
         ]
 
         self.fun_fact = (
-            "I once found a 2.4× lift product pair in 50K+ "
+            "I once found a 2.4x lift product pair in 50K+ "
             "transactions using Market Basket Analysis 🛒"
         )
 
@@ -205,19 +222,6 @@ print(me.motto())
 
 ---
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-k-b62b5a2ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharathbhruz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bharathkumaresen11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharathbhruz&style=flat-square&color=70a5fd&label=Profile+Views"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=120&section=footer&animation=fadeIn" width="100%" />
+</p>
