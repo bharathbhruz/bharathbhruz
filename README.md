@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath+K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+AI+%26+Computer+Vision&descAlignY=62&descSize=16"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 # bharath_k.py
