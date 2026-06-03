@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Bharath%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4158D0,50:C850C0,100:FFCC70&amp;height=200&amp;section=header&amp;text=Bharath%20K&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Computer%20Vision&amp;descAlignY=60&amp;descSize=18" width="100%" />
 </p>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+there!+I%27m+Bharath+K+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,15 +12,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bharath-k-b62b5a2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="mailto:bharathkumaresen11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://github.com/bharathbhruz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bharathbhruz&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=bharathbhruz&amp;style=for-the-badge&amp;color=70a5fd&amp;label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -110,10 +110,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/bharathbhruz">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathbhruz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathbhruz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/bharathbhruz">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbhruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbhruz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
@@ -122,7 +122,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bharathbhruz&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=bharathbhruz&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharathbhruz&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharathbhruz&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true"/>
 </div>
 
 ---
@@ -138,7 +138,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharathbhruz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharathbhruz&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 </div>
 
 ---
@@ -216,12 +216,12 @@ print(me.motto())
 ```
 🤖 Machine Learning    →  Scikit-learn · Feature Engineering · Model Evaluation
 🧠 Deep Learning       →  YOLOv8 · OpenCV · Computer Vision Pipelines
-☁️  Cloud BI            →  Azure Data Factory · Azure Synapse Analytics
+Cloud BI            →  Azure Data Factory · Azure Synapse Analytics
 📐 Advanced Analytics  →  Statistical Modelling · A/B Testing · Forecasting
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4158D0,50:C850C0,100:FFCC70&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" />
 </p>
